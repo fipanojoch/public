@@ -1,0 +1,6 @@
+C:\Users\nvillamayor\Desktop\CCard\CCard\bin\Debug\CCard.dll
+C:\Users\nvillamayor\Desktop\CCard\CCard\bin\Debug\CCard.pdb
+C:\Users\nvillamayor\Desktop\CCard\CCard\obj\Debug\CCard.csprojAssemblyReference.cache
+C:\Users\nvillamayor\Desktop\CCard\CCard\obj\Debug\CCard.csproj.CoreCompileInputs.cache
+C:\Users\nvillamayor\Desktop\CCard\CCard\obj\Debug\CCard.dll
+C:\Users\nvillamayor\Desktop\CCard\CCard\obj\Debug\CCard.pdb

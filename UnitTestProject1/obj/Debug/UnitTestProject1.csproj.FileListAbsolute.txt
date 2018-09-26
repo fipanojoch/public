@@ -1,0 +1,16 @@
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\CCard.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\CCard.pdb
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\nvillamayor\Desktop\CCard\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
